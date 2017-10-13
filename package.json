@@ -1,0 +1,32 @@
+{
+  "name": "node-decipher-openssl",
+  "version": "1.0.0",
+  "description": "Node stream Transform that extracts the first n bytes from a stream",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatan-alama/node-decipher-openssl.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "stream",
+    "dechiper",
+    "openssl",
+    "crypto",
+    "transform"
+  ],
+  "author": "Jonatan Alama <jonatan@aliolicode.com> (https://aliolicode.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonatan-alama/node-decipher-openssl/issues"
+  },
+  "homepage": "https://github.com/jonatan-alama/node-decipher-openssl#readme",
+  "dependencies": {
+    "stream-peek-remove": "^1.0.2",
+    "tape": "^4.8.0"
+  }
+}
