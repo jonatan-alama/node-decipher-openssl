@@ -1,6 +1,6 @@
 {
   "name": "node-decipher-openssl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Decipher files encrypted with openssl command line from node",
   "main": "lib/index.js",
   "scripts": {
