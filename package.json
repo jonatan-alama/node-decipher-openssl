@@ -1,7 +1,7 @@
 {
   "name": "node-decipher-openssl",
   "version": "1.0.0",
-  "description": "Node stream Transform that extracts the first n bytes from a stream",
+  "description": "Decipher files encrypted with openssl command line from node",
   "main": "lib/index.js",
   "scripts": {
     "test": "tape test/*.js"
