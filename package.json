@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/jonatan-alama/node-decipher-openssl#readme",
   "dependencies": {
-    "stream-peek-remove": "^1.0.2",
+    "stream-peek-remove": "^1.0.3",
     "tape": "^4.8.0"
   }
 }
